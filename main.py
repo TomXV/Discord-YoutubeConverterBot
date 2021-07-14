@@ -3,7 +3,7 @@ import youtube_dl
 import os
 from discord.ext import commands
 
-TOKEN = 'ODY0NDk1NTUyODM0MTc0OTg2.YO2SOQ.nnNRPX5EjQckUSr0JE_nCktwirk'
+TOKEN = ''
 
 client = commands.Bot(command_prefix='ydl!')
 
